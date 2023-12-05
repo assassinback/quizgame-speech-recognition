@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sqlconnect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminLogin.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="welcome.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminPanel.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewQuestions.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="searchuser.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewMembers.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteUser.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="updateUser.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddQuestion.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteQuestion.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateQuestion.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchQuestion.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Register.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialQuiz.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserLogin.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserPanel.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WatchUserInfo.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateUserInfo.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GiveQuiz.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnterCode.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewQuizesDone.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GiveSpecialQuiz.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddSpecialQuiz.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddOptions.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddQuestion1.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeeScores.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="welcome.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminLogin.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sqlconnect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminPanel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewQuestions.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewMembers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="searchuser.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteUser.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="updateUser.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddQuestion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteQuestion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchQuestion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UpdateQuestion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Register.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialQuiz.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserLogin.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserPanel.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WatchUserInfo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UpdateUserInfo.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GiveQuiz.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnterCode.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewQuizesDone.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GiveSpecialQuiz.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddSpecialQuiz.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddOptions.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddQuestion1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeeScores.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteUser.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchuser.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMembers.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewQuestions.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddQuestion.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteQuestion.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchQuestion.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateQuestion.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateUser.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialQuiz.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLogin.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanel.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateUserInfo.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WatchUserInfo.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiveQuiz.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterCode.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiveSpecialQuiz.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewQuizesDone.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSpecialQuiz.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOptions.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddQuestion1.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeScores.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

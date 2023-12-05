@@ -1,0 +1,167 @@
+  quizgame.AddOptions.resources - Embedded, ContainedInManifestFile, 
+  quizgame.AddQuestion.resources - Embedded, ContainedInManifestFile, 
+  quizgame.AddQuestion1.resources - Embedded, ContainedInManifestFile, 
+  quizgame.AddSpecialQuiz.resources - Embedded, ContainedInManifestFile, 
+  quizgame.AdminLogin.resources - Embedded, ContainedInManifestFile, 
+  quizgame.AdminPanel.resources - Embedded, ContainedInManifestFile, 
+  quizgame.DeleteQuestion.resources - Embedded, ContainedInManifestFile, 
+  quizgame.DeleteUser.resources - Embedded, ContainedInManifestFile, 
+  quizgame.EnterCode.resources - Embedded, ContainedInManifestFile, 
+  quizgame.GiveQuiz.resources - Embedded, ContainedInManifestFile, 
+  quizgame.GiveSpecialQuiz.resources - Embedded, ContainedInManifestFile, 
+  quizgame.Register.resources - Embedded, ContainedInManifestFile, 
+  quizgame.SearchQuestion.resources - Embedded, ContainedInManifestFile, 
+  quizgame.searchuser.resources - Embedded, ContainedInManifestFile, 
+  quizgame.SeeScores.resources - Embedded, ContainedInManifestFile, 
+  quizgame.SpecialQuiz.resources - Embedded, ContainedInManifestFile, 
+  quizgame.UpdateQuestion.resources - Embedded, ContainedInManifestFile, 
+  quizgame.updateUser.resources - Embedded, ContainedInManifestFile, 
+  quizgame.UpdateUserInfo.resources - Embedded, ContainedInManifestFile, 
+  quizgame.UserLogin.resources - Embedded, ContainedInManifestFile, 
+  quizgame.UserPanel.resources - Embedded, ContainedInManifestFile, 
+  quizgame.ViewMembers.resources - Embedded, ContainedInManifestFile, 
+  quizgame.ViewQuestions.resources - Embedded, ContainedInManifestFile, 
+  quizgame.ViewQuizesDone.resources - Embedded, ContainedInManifestFile, 
+  quizgame.WatchUserInfo.resources - Embedded, ContainedInManifestFile, 
+  quizgame.welcome.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly quizgame, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=5.0.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Speech, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class quizgame.AddOptions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.AddQuestion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.AddQuestion1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.AddSpecialQuiz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    genRandom(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class quizgame.DeleteQuestion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.SearchQuestion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.UpdateQuestion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.ViewQuestions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+    System.Windows.Forms.Form z : Public
+Class quizgame.searchuser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.DeleteUser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.updateUser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+Class quizgame.ViewMembers: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+    System.Windows.Forms.Form x : Public
+Class quizgame.SpecialQuiz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.ViewQuizesDone: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.AdminPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+    System.Windows.Forms.Form y : Public
+Class quizgame.AdminLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.GiveSpecialQuiz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String username : Public
+    System.String code : Public
+    System.String g : Public
+    Int32 checkanswer : Public
+Class quizgame.EnterCode: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.GiveQuiz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String diffi : Public
+    System.String n : Public
+Class quizgame.Register: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+    Int32 i : Public
+Class quizgame.SeeScores: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String c : Public
+Class quizgame.UpdateUserInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+Class quizgame.WatchUserInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+Class quizgame.UserPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public
+Class quizgame.UserLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class quizgame.welcome: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Speech.Synthesis.SpeechSynthesizer speaker : Public
+    System.Speech.Recognition.SpeechRecognizer recognizer : Public

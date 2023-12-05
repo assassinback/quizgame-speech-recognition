@@ -1,0 +1,619 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2123,5): warning MSB3245: Could not resolve this reference. Could not locate the assembly "MySql.Data". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2123,5): warning MSB3245: Could not resolve this reference. Could not locate the assembly "MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2123,5): warning MSB3243: No way to resolve conflict between "MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" and "MySql.Data". Choosing "MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" arbitrarily.
+  AddOptions.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  AddQuestion.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  AddQuestion1.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  AddSpecialQuiz.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\AddSpecialQuiz.h(30,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AdminLogin.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\AddSpecialQuiz.h(30,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AdminPanel.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\AddSpecialQuiz.h(30,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DeleteQuestion.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  DeleteUser.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  EnterCode.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  GiveQuiz.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  GiveSpecialQuiz.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  Register.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  SearchQuestion.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  searchuser.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  SeeScores.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  SpecialQuiz.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  sqlconnect.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(10,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(10,8): error C3861: 'conx': identifier not found
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(11,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(11,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(12,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(13,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(13,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(14,9): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(16,10): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(18,8): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(18,44): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(23,3): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(27,16): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(27,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(27,30): error C2039: 'conx': is not a member of 'sqlconnect'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(24): message : see declaration of 'sqlconnect'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(28,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(28,1): error C2059: syntax error: '{'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(28,1): error C2143: syntax error: missing ';' before '{'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(28,1): error C2447: '{': missing function header (old-style formal list?)
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(34,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(35,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(35,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(36,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(37,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(37,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(39,9): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(41,10): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(45,3): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(52,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(53,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(53,34): error C2061: syntax error: identifier 'MySqlDataAdapter'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(55,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(61,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(62,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(62,34): error C2061: syntax error: identifier 'MySqlDataAdapter'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(64,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(70,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(71,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(71,34): error C2061: syntax error: identifier 'MySqlDataAdapter'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(73,2): error C2065: 'adapter': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(79,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(80,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(80,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(81,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(82,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(82,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(86,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(89,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(90,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(90,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(91,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(92,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(92,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(95,10): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(97,11): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(99,9): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(105,4): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(108,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(109,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(110,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(110,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(111,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(112,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(112,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(117,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(118,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(118,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(119,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(120,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(120,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(121,9): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(123,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(124,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(125,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(126,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(127,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(128,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(129,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(130,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(131,13): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(136,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(137,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(137,30): error C2061: syntax error: identifier 'MySqlCommand'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(139,2): error C2065: 'con': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(140,2): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(140,11): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(141,9): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(143,10): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(147,3): error C2065: 'reader': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(149,2): error C2065: 'command': undeclared identifier
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.cpp(149,10): fatal error C1003: error count exceeds 100; stopping compilation
+  UpdateQuestion.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  updateUser.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  UpdateUserInfo.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  UserLogin.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  UserPanel.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  ViewMembers.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  ViewQuestions.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  ViewQuizesDone.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  WatchUserInfo.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+  welcome.cpp
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,17): error C2653: 'MySql': is not a class or namespace name
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,30): error C2039: 'MySqlClient': is not a member of 'System::Data'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(13,41): error C2871: 'MySqlClient': a namespace with this name does not exist
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(28,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(29,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(30,27): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(31,23): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C2143: syntax error: missing ';' before '^'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\sqlconnect.h(33,25): error C2238: unexpected token(s) preceding ';'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\AddSpecialQuiz.h(30,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\welcome.cpp(7,10): error C2976: 'std::array': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\utility(468): message : see declaration of 'std::array'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\welcome.cpp(7,30): error C3699: '^': cannot use this indirection on type 'std::array'
+F:\quizgame12 Final - Copy (1)\quizgame12 Final - Copy\quizgame\welcome.cpp(7,30): message : compiler replacing '^' with '*' to continue parsing
+  Generating Code...

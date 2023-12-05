@@ -1,0 +1,12 @@
+DB type:MySql
+DBname:quizgame
+id=root
+pwd=sazi
+change id and pwd from sql connect file, first function
+MySql Database Tables:
+admininfo:username,password
+userinfo:username,password,email,address,class,testsgiven,marksobtained,specialquizgiven,specialquizscores
+addquestion:question,optiona,optionb,optionc,optiond,answer
+specialquiz:question,optiona,optionb,optionc,optiond,answer,quizcode
+quizoption:topic,optiontype
+questioninfo:question,optiona,optionb,optionc,optiond,answer,difficulty,topic
